@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken",
+        "description": "Popular Snack",
+        "price": 38,
+        "imgUrl": "/tamJai-images/Chicken.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Minced Pork",
+        "description": "Homemade Source",
+        "price": 24,
+        "imgUrl": "/tamJai-images/Minced_Pork_Northern_Style.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pickled Cabbage",
+        "description": "Homemade Source",
+        "price": 22.5,
+        "imgUrl": "/tamJai-images/Pickled_Cabbage.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Preserved Duck Egg",
+        "description": "Popular Snack",
+        "price": 23.3,
+        "imgUrl": "/tamJai-images/Preserved_Duck_Egg.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rice Noodles",
+        "description": "Unforgetable Taste! | All Soup & Mixian default separated",
+        "price": 36,
+        "imgUrl": "/tamJai-images/Rice_Noodles.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Value Set for 2",
+        "description": "2 x Rice Noodles with 2 Toppings + Small Hunan Cumin Chicken Wings/ Herb Chicken Wings/ Sliced Pork Belly with Mashed Garlic + 2 x Drinks | All Soup & Mixian default separated",
+        "price": 122.3,
+        "imgUrl": "/tamJai-images/Value_Set_for_2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Value Set for 3",
+        "description": "3 x Rice Noodles with 3 Toppings + Small Hunan Cumin Chicken Wings/ Herb Chicken Wings/ Sliced Pork Belly with Mashed Garlic + 3 x Drinks | All Soup & Mixian default separated",
+        "price": 183,
+        "imgUrl": "/tamJai-images/Value_Set_for_2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Value Set for 4",
+        "description": "4 x Rice Noodles with 4 Toppings + Small Hunan Cumin Chicken Wings/ Herb Chicken Wings/ Sliced Pork Belly with Mashed Garlic + 4 x Drinks | All Soup & Mixian default separated",
+        "price": 237.8,
+        "imgUrl": "/tamJai-images/Value_Set_for_4.jpg"
+    }
+]

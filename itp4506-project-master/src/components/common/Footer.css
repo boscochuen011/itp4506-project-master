@@ -1,0 +1,12 @@
+.copyright-container {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 0 5%;
+  background-color: #356063;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 14px;
+}

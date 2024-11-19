@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "type": "customer",
+      "username": "Louis",
+      "email": "johndoe@example.com",
+      "address": "123 Main St, City, State, ZIP",
+      "phone": "123-456-7890",
+      "password": "000"
+    },
+    {
+      "type": "customer",
+      "username": "Bosco",
+      "email": "michael.smith@example.com",
+      "address": "123 Main St, City, State, ZIP",
+      "phone": "098-765-4321",
+      "password": "123"
+    },
+    {
+      "type": "restaurant",
+      "username": "JohnDoe",
+      "restaurantName": "Yummy Restaurant",
+      "address": "123 Main St, City, State, ZIP",
+      "phone": "123-456-7890",
+      "password": "123"
+    },
+    {
+      "type": "restaurant",
+      "username": "MichaelSmith",
+      "restaurantName": "Delicious Diner",
+      "address": "456 Market St, City, State, ZIP",
+      "phone": "098-765-4321",
+      "password": "123"
+    },
+    {
+      "type": "delivery",
+      "username": "Jane",
+      "email": "janedoe@example.com",
+      "phone": "123-456-7890",
+      "password": "123",
+      "restaurantName": "Yummy Restaurant",
+      "RestaurantAccessRightsNumber": "TAT"
+    },
+    {
+      "type": "delivery",
+      "username": "DavidJohnson",
+      "email": "david.johnson@example.com",
+      "phone": "098-765-4321",
+      "password": "123",
+      "restaurantName": "Delicious Diner",
+      "RestaurantAccessRightsNumber": "TAT"
+    }
+  ]
+}

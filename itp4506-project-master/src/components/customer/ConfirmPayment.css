@@ -1,0 +1,128 @@
+.CM-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  max-width: 1500px;
+  margin: 40px auto;
+  background-color: #f8f9fa;
+  border-radius: 15px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+}
+
+.CM-shopping-cart,
+.CM-payment {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  padding: 30px;
+  background-color: #fff;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+  padding-bottom: 50px;
+}
+.CM-shopping-cart h2,
+.CM-payment h2 {
+  margin-bottom: 50px;
+}
+
+.CM-product {
+  display: flex;
+  margin-bottom: 35px;
+  align-items: center;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 35px;
+}
+
+.product-info {
+  margin: 20px;
+}
+
+.CM-product img {
+  width: 180px;
+  height: 150px;
+  border-radius: 15px;
+}
+
+.product-controls,
+.quantity-controls {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-controls input {
+  width: 60px;
+  text-align: center;
+  border: 2px solid #dee2e6;
+  font-size: 18px;
+}
+
+.subtotal {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.delivery {
+  font-size: 20px;
+  text-align: right;
+}
+
+.card-details input {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 18px;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.card-details input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+.CM-button {
+  padding: 18px 28px;
+  border: none;
+  background-color: #0056b3; 
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 19px;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+}
+
+.CM-button:hover {
+  background-color: #003f8f; 
+}
+
+.CM-back-button {
+  padding: 18px 28px;
+  border: none;
+  background-color: #cf322a;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 19px;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+}
+.CM-back-button:hover {
+  background-color: #b3201c;
+}
+
+.CP-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.payment-options label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.card-details label {
+  display: block;     
+  margin-bottom: 10px; 
+}

@@ -1,0 +1,11 @@
+.Edit-button {
+    color: #777777;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.Edit-button:hover {
+    color: #000000;
+    background-color: #eeeeee;
+}

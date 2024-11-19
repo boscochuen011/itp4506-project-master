@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "customer": "John Doe",
+    "items": [
+      { "name": "Rice Noodles", "quantity": 1 },
+      { "name": "Chicken", "quantity": 2 }
+    ],
+    "total": "98.00",
+    "status": "Preparing"
+  },
+  {
+    "id": 2,
+    "customer": "Jane Smith",
+    "items": [
+      { "name": "Preserved Duck Egg", "quantity": 1 },
+      { "name": "Pickled Cabbage", "quantity": 1 }
+    ],
+    "total": "45.80",
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "customer": "Alice Johnson",
+    "items": [
+      { "name": "Minced Pork", "quantity": 2 },
+      { "name": "Value Set for 2", "quantity": 1 }
+    ],
+    "total": "170.30",
+    "status": "Ready for Delivery"
+  },
+  {
+    "id": 4,
+    "customer": "Bob Brown",
+    "items": [
+      { "name": "Value Set for 4", "quantity": 1 }
+    ],
+    "total": "237.80",
+    "status": "Completed"
+  },
+  {
+    "id": 5,
+    "customer": "Carol White",
+    "items": [
+      { "name": "Value Set for 3", "quantity": 1 },
+      { "name": "Preserved Duck Egg", "quantity": 2 }
+    ],
+    "total": "229.60",
+    "status": "Rejected"
+  },
+  {
+    "id": 6,
+    "customer": "David Green",
+    "items": [
+      { "name": "Chicken", "quantity": 1 },
+      { "name": "Rice Noodles", "quantity": 2 }
+    ],
+    "total": "102.00",
+    "status": "Pending"
+  },
+  {
+    "id": 7,
+    "customer": "Eva Black",
+    "items": [
+      { "name": "Minced Pork", "quantity": 3 }
+    ],
+    "total": "72.00",
+    "status": "Preparing"
+  },
+  {
+    "id": 8,
+    "customer": "Frank Gray",
+    "items": [
+      { "name": "Pickled Cabbage", "quantity": 2 },
+      { "name": "Preserved Duck Egg", "quantity": 1 }
+    ],
+    "total": "68.10",
+    "status": "Completed"
+  },
+  {
+    "id": 9,
+    "customer": "Grace Lee",
+    "items": [
+      { "name": "Value Set for 2", "quantity": 1 },
+      { "name": "Rice Noodles", "quantity": 1 }
+    ],
+    "total": "158.30",
+    "status": "Ready for Delivery"
+  }
+]
